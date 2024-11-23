@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import './globalStyle/globalStyle.scss'
 
 function App() {
   return (
